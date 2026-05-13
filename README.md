@@ -10,12 +10,12 @@ https://datastudio.google.com/u/0/reporting/306adf22-d2e9-43b1-8011-71daa9a025a7
 
 ## Features
 
-🗺️ Peta persebaran garis kemiskinan per kapita di Jawa Barat
-📈 Perbandingan data tahun 2018, 2019, dan 2020
-🍩 Donut chart berdasarkan kategori wilayah
-📊 Bar chart perbandingan tiap kabupaten/kota
-📋 Tabel data per kapita setiap daerah
-🎯 Visualisasi interaktif untuk eksplorasi data yang lebih mudah
+- 🗺️ Peta persebaran garis kemiskinan per kapita di Jawa Barat
+- 📈 Perbandingan data tahun 2018, 2019, dan 2020
+- 🍩 Donut chart berdasarkan kategori wilayah
+- 📊 Bar chart perbandingan tiap kabupaten/kota
+- 📋 Tabel data per kapita setiap daerah
+- 🎯 Visualisasi interaktif untuk eksplorasi data yang lebih mudah
 
 ## Tools
 
