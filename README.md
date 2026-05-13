@@ -18,8 +18,4 @@ https://datastudio.google.com/u/0/reporting/306adf22-d2e9-43b1-8011-71daa9a025a7
 
 - Looker Studio
 - Google Sheets / sumber data terkait
-- GitHub untuk dokumentasi dan versioning
 
-## File
-
-PDF hasil export dashboard tersedia di folder `dashboard/`.
